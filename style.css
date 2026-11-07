@@ -1,0 +1,18 @@
+div{
+    margin:5% 35%;
+padding: 5%;
+background: linear-gradient(45deg,rgb(189, 54, 121),pink);
+width: 300px;
+border: 2px solid rgb(117, 113, 113);
+border-radius: 3%;
+}
+body{
+    background: linear-gradient(90deg,rgb(235, 250, 34), rgb(82, 219, 18));
+}
+h1{
+    font-family:Geneva, Verdana, sans-serif;
+}
+img{margin-left: 20%;
+    border-radius: 3%;
+    margin-top: 0px;
+}
